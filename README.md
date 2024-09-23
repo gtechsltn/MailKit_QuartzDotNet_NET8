@@ -1,6 +1,10 @@
 
 # Sample Project With MailKit
 
+How to handle with email in C# .NET 8 use MailKit and GreenMail
+
+https://medium.com/@gabrieletronchin/use-mailkit-and-greenmail-to-develop-a-email-interaction-0b0b27d2f85a
+
 In this project, I leverage MailKit to seamlessly manage email communication with a test MailService. The selected Mail service is GreenMail, a reliable tool designed for testing email functionality.
 
 For detailed information on GreenMail, visit their website: [GreenMail Official Page](https://greenmail-mail-test.github.io/greenmail/)
